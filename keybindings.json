@@ -1,0 +1,29 @@
+// Calva Keys for VS Code
+// .config/Code/User/keybindings.json
+
+[
+  {
+    "key": "alt+j",
+    "command": "calva.evalCurrentFormInREPLTerminal"
+  },
+  {
+    "key": "alt+n",
+    "command": "calva.setREPLNamespace"
+  },
+  {
+    "key": "alt+k",
+    "command": "calva.selectCurrentForm"
+  },
+  {
+    "key": "alt+o",
+    "command": "calva.openREPLTerminal"
+  },
+  {
+    "key": "alt+e",
+    "command": "calva.evaluateSelection"
+  },
+  {
+    "key": "alt+enter",
+    "command": "calva.evaluateFile"
+  },
+]
