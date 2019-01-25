@@ -3,27 +3,27 @@
 
 [
   {
-    "key": "alt+j",
+    "key": "ctrl+alt+j",
     "command": "calva.evalCurrentFormInREPLTerminal"
   },
   {
-    "key": "alt+n",
+    "key": "ctrl+alt+n",
     "command": "calva.setREPLNamespace"
   },
   {
-    "key": "alt+k",
+    "key": "ctrl+alt+k",
     "command": "calva.selectCurrentForm"
   },
   {
-    "key": "alt+o",
+    "key": "ctrl+alt+o",
     "command": "calva.openREPLTerminal"
   },
   {
-    "key": "alt+e",
+    "key": "ctrl+alt+e",
     "command": "calva.evaluateSelection"
   },
   {
-    "key": "alt+enter",
+    "key": "ctrl+alt+enter",
     "command": "calva.evaluateFile"
   },
 ]
